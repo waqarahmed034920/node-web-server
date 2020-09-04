@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "msnodesqlv8": "^2.0.5",
+    "mssql": "^6.2.1"
   }
 }
